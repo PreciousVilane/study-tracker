@@ -44,5 +44,3 @@ This Study Tracker helps users follow a structured learning path:
 - JavaScript (ES6+)
 - Tailwind CSS (optional styling)
 - Browser LocalStorage (for persistence)
-
-## 📁 Project Structure
